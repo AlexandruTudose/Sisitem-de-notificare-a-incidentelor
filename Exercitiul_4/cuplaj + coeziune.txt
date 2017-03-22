@@ -1,0 +1,6 @@
+Clasele prezente in diagram sunt User,ImportanceEnum,NotifySistem si Incident.
+Cuplajul:
+-Clasa NotifySistem are o metoda care referentiaza un obiect de tipul Incident(sendSignal(Incident))
+-Clasa NotifySistem are o metoda care referetiaza un obiect de tipul User ( addUser(User))
+-Cuplajul este mic deoarece nu are dependente fata de multe alte clase;
+-Clasele User,NotifySistem,Incident,ImportanceEnum  au o coeziune mare datorita numarului de attribute,dimensiunii claselor.De asemenea sunt legate unele de altele.
