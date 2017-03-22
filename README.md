@@ -1,2 +1,5 @@
 # Sisitem-de-notificare-a-incidentelor
-Lab5 - Proiect IngineriaProgramarii
+Laborator 5 - Proiect IngineriaProgramarii
+
+
+TODO: Descriere:
